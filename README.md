@@ -9,7 +9,7 @@ I am working on a side-project that would validate a HL7 message, and present th
 References:
 
 - [HAPI Portal](https://hapifhir.github.io/hapi-hl7v2/conformance.html)
-- [Github - Sravanan Subramanian](https://github.com/SaravananSubramanian)
+- [Github - Saravanan Subramanian](https://github.com/SaravananSubramanian)
 
 ## Message Work Bench Tool
 
